@@ -1,0 +1,12 @@
+{
+"productsToBeAdded":[
+{"barCodeId":"ABC-abc-1234","quantity":20},
+{"barCodeId":"ABC-abc-2234","quantity":30},
+{"barCodeId":"ABC-abc-3234","quantity":10}],
+
+"productsToBeRemoved":[
+{"barCodeId":"ABC-abc-1235","quantity":2},
+{"barCodeId":"ABC-abc-1236","quantity":3},
+{"barCodeId":"ABC-abc-1237","quantity":1}],
+
+"status":"RELEASED"}
